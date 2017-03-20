@@ -6,4 +6,6 @@ TODO: Faire marcher une version initiale d'Alexa
 Lien pour les diverses fonctionnalités:
 https://www.cnet.com/how-to/the-complete-list-of-alexa-commands/
 
+Installer maven avant de runner alexa sur le pi
+
 Liste skils: https://github.com/dale3h/alexa-skills-list
